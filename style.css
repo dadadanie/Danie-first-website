@@ -1,0 +1,44 @@
+ .purple-color{
+    color:#FF0000;
+  }
+  .red-color{
+     color:goldenrod;
+  }
+  body{ 
+   font-family:sans-serif;
+    color:#777777;
+    line-height:30px;
+  }
+ .half-width{
+   width:50%;
+   float:left;
+  }
+  .side-img{
+    width:50%;
+    padding-left:25%; 
+  }
+  .primary-btn{
+    color:white;
+    background-color:#FF0000;
+    padding:15px 45px;
+    border-radius:20px;
+    text-decoration:none;
+  }
+  h1{
+    font-size:3em;
+  }
+  container{
+    padding-left:5%;
+    display:inline-block;
+  }
+  . experience{
+      padding:30px;
+      margin:30px;
+      background-color:rgb(238 251 255)
+      border-radius:25px;
+  }
+  . experience-item{
+      padding:10px;
+      border-left:2px solid rgb(137 130 237 .6)
+  }
+  
